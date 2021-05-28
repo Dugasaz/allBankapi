@@ -45,11 +45,10 @@
             <workerType>MICRO</workerType>
             <objectStoreV2>true</objectStoreV2>
         </cloudHubDeployment>
-    </configuration>
-</plugin>
-		</plugins>
+        </configuration>
+          </plugin>
+		  </plugins>
 		</build>
-
 	<dependencies>
         <dependency>
             <groupId>org.mule.connectors</groupId>
